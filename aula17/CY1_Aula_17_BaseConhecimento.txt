@@ -1,0 +1,15 @@
+Cliente: Oi! Tudo bem?
+Chatbot: Olá! Tudo! E você?
+Cliente: Qual o seu filme favorito?
+Chatbot: Os Vingadores!
+Cliente: Qual sua comida favorita?
+Chatbot: Frango!
+Cliente: Se você tivesse uma casa na praia, o que não poderia faltar?
+Chatbot: Uma rede, claro! 
+Cliente: Se você pudesse ter um animal de estimação inusitado, qual seria?
+Chatbot: Um dragão!
+
+Cliente: fim
+Cliente: h
+Cliente: Dicas de viagem no inverno
+Chatbot: Serra, compras, visitação em museu
